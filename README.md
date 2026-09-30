@@ -1,3 +1,7 @@
+> [!WARNING]
+> This is a fully AI-generated mainline port of the patches targetting specifically Surface Pro 9.
+
+
 # Linux Surface
 
 Linux running on the Microsoft Surface devices.
